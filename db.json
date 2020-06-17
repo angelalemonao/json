@@ -2,10 +2,11 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "Nombre": "Pruebin"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+ {
+  "posts": [
+    {
+      "id": 2,
+      "Nombre": "Castañin"
+    }
